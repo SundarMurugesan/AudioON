@@ -3,4 +3,23 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="username_button_label">User Name</string>
+    <string name="password_button_label">Password</string>
+    <string name="profile_label">TAP ANYWHERE TO RECORD AND TELL US ABOUT YOURSELF</string>
+    <string name="message_label">TAP ANYWHERE TO RECORD TO SEND A MESSAGE TO YOUR FRIEND</string>
+    <string name="check_message_label">TAP ANYWHERE TO CHECK A MESSAGE TO YOUR FRIEND</string>
+    <string name="profile_button_label">PROFILE</string>
+    <string name="send_messages_button_label">SEND MESSAGES</string>
+    <string name="check_messages_button_label">CHECK MESSAGES</string>
+    <string name="welcome_home_label">Home</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_friends">FriendsActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="title_activity_check_message">CheckMessageActivity</string>
+
+
+
 </resources>
